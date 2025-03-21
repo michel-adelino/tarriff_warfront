@@ -2,16 +2,31 @@
 
 **Global Tariff Impact Tracker & Educational Analytics Platform**
 
-I developed a full-stack platform for real-time trade policy analysis and public insight delivery. Built with Next.js and NestJS, the application aggregates live tariff data from official sources like the USTR and WTO, integrating it with real-time market indicators to provide a unified view of policy impact. I designed and implemented interactive dashboards featuring maps, graphs, and AI-generated summaries to help policymakers, educators, and researchers quickly grasp complex trade shifts. To streamline information consumption, I integrated natural language summarization models that condense over 1,000 daily updates into actionable insights to reduce plicy research times. The platform was built to serve both technical and non-technical audiences, with customizable visualizations and exportable reports for stakeholder communication.
+A full-stack platform for real-time trade policy analysis and public insight delivery. Built with Next.js and NestJS, the application aggregates live tariff data from official sources like the USTR and WTO, integrating it with real-time market indicators to provide a unified view of policy impact. The platform features interactive dashboards with maps, graphs, and AI-generated summaries to help policymakers, educators, and researchers quickly grasp complex trade shifts. Natural language summarization models condense over 1,000 daily updates into actionable insights to reduce policy research times. The platform serves both technical and non-technical audiences, with customizable visualizations and exportable reports for stakeholder communication.
 
 ---
 
 
-## 🎥 Demo Video
+## 📸 Screenshots
 
-
-
-[![Tariff War Demo](https://img.youtube.com/vi/ZMTcpeIl2yE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZMTcpeIl2yE)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/1.png" alt="Screenshot 1" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="assets/2.png" alt="Screenshot 2" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/3.png" alt="Screenshot 3" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="assets/4.png" alt="Screenshot 4" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -72,5 +87,5 @@ Stay tuned—new features drop every two weeks, and you can follow progress on t
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/tariff-warfront.git
+   git clone <repository-url>
    cd tariff-warfront
